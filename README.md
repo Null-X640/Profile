@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Febrian&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Software%20%26%20Game%20Developer%20%7C%20Bogor%2C%20Jawa%20Barat&descAlignY=60&descSize=17" width="100%" />
 
-<img src="https://kommodo.ai/i/fsAKHByaN2uoN11b7Jv6" width="170" height="170" style="border-radius:50%; object-fit:cover;" alt="Febrian" />
+<img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/FebriDevv/FebriDevv/main/foto.jpg&w=300&h=300&fit=cover&mask=circle&output=png" width="170" height="170" alt="Febrian" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 Gue **Febrian**, asli **Bogor, Jawa Barat**. Ambil jurusan **Pengembangan Perangkat Lunak dan Gim (PPLG)** di **SMK Wikrama Kota Bogor**.
 
-Gue mulai kenal coding pas masuk SMK, dari nol banget. Sekarang lagi seru-serunya belajar bikin aplikasi dan gim, dan repo-repo di sini isinya hasil proses belajar gue, dari yang masih berantakan sampe yang udah lumayan jadi. 
+Gue mulai kenal coding pas masuk SMK, dari nol banget. Sekarang lagi seru-serunya belajar bikin aplikasi dan gim, dan repo-repo di sini isinya hasil proses belajar gue, dari yang masih berantakan sampe yang udah lumayan jadi.
 
 ## 🎓 Pendidikan
 
@@ -38,8 +38,8 @@ Gue mulai kenal coding pas masuk SMK, dari nol banget. Sekarang lagi seru-seruny
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_LU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_LU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FebriDevv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FebriDevv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
 
 </div>
 
@@ -53,7 +53,7 @@ Gue mulai kenal coding pas masuk SMK, dari nol banget. Sekarang lagi seru-seruny
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/FebriDevv)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FebriDevv)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Febzverlusz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfebrianardani@smkwikrama.sch.id)
 
