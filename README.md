@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Febrian&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Software%20%26%20Game%20Developer%20%7C%20Bogor%2C%20Jawa%20Barat&descAlignY=60&descSize=17" width="100%" />
 
-<img src="https://cdn.phototourl.com/member/2026-10-02-ecf26fbe-223b-4f09-98ad-4a795a549ac2.jpg" width="170" height="170" style="border-radius:50%; object-fit:cover;" alt="Febrian" />
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABOYAAATmCAIAAAAKnjl9AABcLWNhQlgAAFwtanVtYgAAAB5qdW1kYzJwYQARABCAAACqADibcQNjMnBhAAAAXAdqdW1iAAAAR2p1bWRjMm1hABEAEIAAAKoAOJtxA3VybjpjMnBhOmMzYmFlYzYwLTg4YzktNGJkNy1hZDYzLWEwMWYxMDk4OT" width="170" height="170" style="border-radius:50%; object-fit:cover;" alt="Febrian" />
 
 <br/>
 
