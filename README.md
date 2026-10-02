@@ -1,82 +1,64 @@
-<h1 align="center">Halo, Gue Muhammad Febrian Ardani! 👋</h1>
+<div align="center">
 
-<h3 align="center">Seorang Pelajar yang lagi belajar Coding 🧑‍💻</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Febrian&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Software%20%26%20Game%20Developer%20%7C%20Bogor%2C%20Jawa%20Barat&descAlignY=60&descSize=17" width="100%" />
 
-<p align="center">
-  <img src="https:/[/media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://cdn.phototourl.com/member/2026-10-02-ecf26fbe-223b-4f09-98ad-4a795a549ac2.jpg)" width="400" alt="Coding GIF"/>
-</p>
+<img src="https://cdn.phototourl.com/member/2026-10-02-ecf26fbe-223b-4f09-98ad-4a795a549ac2.jpg" width="170" height="170" style="border-radius:50%; object-fit:cover;" alt="Febrian" />
 
----
+<br/>
 
-## 🧑‍🎓 **Tentang Gue**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Halo%2C+gue+Febrian+%F0%9F%91%8B;Anak+PPLG+SMK+Wikrama+Bogor;Suka+ngoding+%26+bikin+gim+%F0%9F%8E%AE;Lagi+terus+belajar+tiap+hari)](https://git.io/typing-svg)
 
-- 🎓 **Nama** : Muhammad Febrian Ardani
-- 📚 **Jurusan** : Program Perangkat Lunak dan Gim (PPLG)
-- 📍 **Asal** : Jawa Barat, Kota Bogor
-- 💻 **Status** : Pelajar yang lagi mendalami dunia Coding
-- 🔥 **Motto** : *"Belajar, Ngoding, Ngopi, Ulang!"*
+</div>
 
 ---
 
-## 🎒 **Riwayat Pendidikan**
+## 👤 Tentang Gue
 
-| 🏫 Jenjang | Nama Sekolah |
-|:----------:|:------------:|
-| SD | **SD Pajajaran** |
-| SMP | **MTs Darusalam** |
-| SMK | **SMK Wikrama Kota Bogor** |
+Gue **Febrian**, asli **Bogor, Jawa Barat**. Ambil jurusan **Pengembangan Perangkat Lunak dan Gim (PPLG)** di **SMK Wikrama Kota Bogor**.
 
----
+Gue mulai kenal coding pas masuk SMK, dari nol banget. Sekarang lagi seru-serunya belajar bikin aplikasi dan gim, dan repo-repo di sini isinya hasil proses belajar gue, dari yang masih berantakan sampe yang udah lumayan jadi. 
 
-## 💻 **Skill & Tools**
+## 🎓 Pendidikan
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
-</p>
+| Jenjang | Sekolah |
+| :-- | :-- |
+| SD | SD Pajajaran |
+| SMP | MTs Darussalam |
+| SMK | SMK Wikrama Kota Bogor, jurusan PPLG |
 
----
+## 🛠️ Tech Stack
 
-## 🎯 **Yang Lagi Gue Pelajari**
+<div align="center">
 
-- 🌐 Web Development (HTML, CSS, JavaScript)
-- 🐍 Python Programming
-- 🎮 Game Development
-- 📱 Mobile App Development
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,unity,cs&theme=dark" alt="tech stack" />
 
----
+</div>
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Febrian&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Febrian&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_LU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_LU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
 
----
+</div>
 
-## 📫 **Hubungi Gue**
+## 🌱 Lagi Dikerjain
 
-<p align="center">
-  <a href="mailto:muhammadfebrianardani@smkwikrama.sch.id">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Febrian">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+- Memperdalam skill ngoding dan logika pemrograman
+- Belajar bikin gim dari nol sampe jadi
+- Ngerjain project-project kecil buat portofolio
 
----
+## 🤝 Kontak
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Terima+Kasih+Udah+Mampir!+%F0%9F%91%8B;Jangan+Lupa+Follow+Ya+Bro!+%F0%9F%9A%80" alt="Typing SVG"/>
-</p>
+<div align="center">
 
-<p align="center">⭐️ From <b>Muhammad Febrian Ardani</b> with ❤️</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/FebriDevv)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Febzverlusz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfebrianardani@smkwikrama.sch.id)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
+
+</div>
